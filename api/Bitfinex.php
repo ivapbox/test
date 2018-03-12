@@ -16,8 +16,8 @@ class Bitfinex {
     const CONNECT_TIMEOUT = 60;
     const API_URL = 'https://api.bitfinex.com';
 
-    private $api_key = 'ihPoMJyB3IUdQFkYToUwlmVwsDEmKcJdHSQELp8fgDV';
-    private $api_secret = 'CZt9ishJmZbgy5avjkCAF9Vjej5f2rOIJ7vP62JHjSp';
+    private $api_key = 'ihPoMJyB3IUdQFkYToUwlmVwsDEmKcJdHSQELp8fgDVIv';
+    private $api_secret = 'CZt9ishJmZbgy5avjkCAF9Vjej5f2rOIJ7vP62JHjSpIv';
     private $api_version = 'v1';
 
 
