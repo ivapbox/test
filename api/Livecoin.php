@@ -1,8 +1,8 @@
 <?php
 class Livecoin{
 
-    private $apiLiveCoin_key = 'qxg8BYjfjUBrygRaFfTH8bVUXr6nGGhW';
-    private  $apiLiveCoin_secret = 'gbkPSKUP2SZrAntHS1XGykSYTGQE8nXS';
+    private $apiLiveCoin_key = 'qxg8BYjfjUBrygRaFfTH8bVUXr6nGGhWIv';
+    private  $apiLiveCoin_secret = 'gbkPSKUP2SZrAntHS1XGykSYTGQE8nXSIv';
 
 
     public function get_ticker($rate){
